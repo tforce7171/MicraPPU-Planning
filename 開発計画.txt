@@ -1,0 +1,13 @@
+--開発計画--
+プロジェクト名「MicraPPU」
+
+最適なMCサーバーの開発
+  ホワイトリスト、ブラックリストの導入
+  一定時間操作なしでシャットダウン
+  自動Mod導入可能性の検討
+  Logging機能の導入
+MicraPPU-CLIの開発
+セキュリティ対策の検討
+MicraPPU-Server-Managerの開発
+MicraPPU-Official-Siteの開発
+MicraPPU-Discord-Botの開発
